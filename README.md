@@ -1,6 +1,6 @@
 # 🍽️ Eat-n-Split
 
-This is a simple React-based web application for splitting bills with your friends. You can manage your list of friends, select a friend, and split bills easily using this app.
+This is a simple React-based web application for splitting bills with your friends. You can manage your list of friends, select a friend, and split bills easily using this app. You can also check out the live deployment of this project at https://eat-n-split-dun-one.vercel.app/.
 
 ## 📋 Table of Contents
 
